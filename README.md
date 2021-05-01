@@ -1,5 +1,5 @@
 # :money_with_wings: Cryptocurrency-Stealer
-Replace any BTC, XMR, XLM, ETH, XRP, LTC, BCH, NEC, ZCASH, DASH, DOGE, WMR, WMG, WMX, Yandex money, Qiwi, steam tradelink address in clipboard.
+Replace any BTC, XMR, XLM, ETH, XRP, LTC, BCH, NEC, ZCASH, DASH, DOGE, WMR, WMG, WMX, Yandex money, Qiwi address to yours.
 
 # :star2: Info
 - [X] 10-13~ kilobytes executable
