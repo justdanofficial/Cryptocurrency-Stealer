@@ -11,7 +11,8 @@ namespace Stealer.Modules
             bool createdNew = false;
             // Check
             Mutex currentApp = new Mutex(false, config.mutex, out createdNew);
-            if (!createdNew) Environment.Exit(1);
+            if (!createdNew)
+                Environment.Exit(1);
         }
     }
 }
