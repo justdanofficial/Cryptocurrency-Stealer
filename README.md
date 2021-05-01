@@ -9,6 +9,6 @@ Replace any BTC, XMR, XLM, ETH, XRP, LTC, BCH, NEC, ZCASH, DASH, DOGE, WMR, WMG,
 - [X] Open source
 
 # :gear: Configuration file
-<p align="center">
+<p align="left">
 <img src="https://suicide.ooo/d3dxJYt.png">
 <p/>
